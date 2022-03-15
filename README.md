@@ -1,6 +1,6 @@
 # espaCy
-- [Documentación en Español](##Español)
-- [English Documentation](##English)
+- [Documentación en Español](#español)
+- [English Documentation](#english)
 
 ## Español
 - Es una librería que se encarga de corregir y ampliar las funciones de analizador sintáctico de spaCy para textos en español.
